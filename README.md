@@ -1,2 +1,0 @@
-# gatybyChallenge
-Created with CodeSandbox
